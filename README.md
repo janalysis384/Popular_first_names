@@ -36,7 +36,7 @@ Use any spreadsheet software you are familiar with:
 - I sorted all files columns in the same order `1. vornamen 2. anzahl 3. geschlecht 4. position`
 - Store files in a folder called “`Vornamen`”
 
-Here is the first script `Run Sum_up_dublicates.py`.
+Here is the first script. Run `Sum_up_dublicates.py`.
 - I dropped the `columns` `geschlecht` and `position` for further analysis. 
 - I summed up all duplicate names. This would make it also easier to search by hand.
 - The new `csv` files are `,` separated and are stored in a new folder “`Vornamen_dublicates_removal`”
