@@ -45,8 +45,8 @@ Here is the first script. Run `Sum_up_dublicates.py`.
 ### Popular first names in Bonn
 
 I have prepared two scripts which display either the 5 most popular names or the 10 most popular names. It will then save it as a png.
-    1. `Vornamen_Overtime.py` displays the 5 most popular names
-    2. `Vornamen_Overtime_top10.py` displays the 10 most popular names
+* `Vornamen_Overtime.py` displays the 5 most popular names
+* `Vornamen_Overtime_top10.py` displays the 10 most popular names
 
 ## Chapter 4
 ### Which name was popular in each year.
