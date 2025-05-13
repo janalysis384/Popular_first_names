@@ -1,7 +1,7 @@
 # Popular_first_names
 Based on Bonns (Germany) public available data we have the most popular names plotted and have a little script to see the popularity of a given first name over time.
 
-More and more cities give their citizens access to their data. Bonn conveniently shares their data in (mostly) csv files with us (link). This little project looks at the most popular names and gives a little script to see the popularity of a given name over time.
+More and more cities give their citizens access to their data. Bonn conveniently shares their data in (mostly) csv files with us. This little project looks at the most popular names and gives a little script to see the popularity of a given name over time.
 
 ## Prelude
 ### Prepare and get ready
@@ -12,10 +12,10 @@ Python packages I used
 * `pathlib`
 
 Some variables and annotations in the figures are in German. Here is the dictionary:
-Vorname – First name
-Jahr – Year
-Anzahl – Count
-Geschlecht – sex
+* Vorname – First name
+* Jahr – Year
+* Anzahl – Count
+* Geschlecht – sex
 
 
 
