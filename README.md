@@ -7,9 +7,9 @@ More and more cities give their citizens access to their data. Bonn conveniently
 ### Prepare and get ready
 
 Python packages I used
-	pandas
-	matplotlip
-	pathlib
+* `pandas`
+* `matplotlip`
+* `pathlib`
 
 Some variables and annotations in the figures are in German. Here is the dictionary:
 Vorname – First name
